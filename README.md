@@ -1,7 +1,8 @@
-## Hi there 👋
-
+<h1 align="center">Hello there! I'm Tom Gibbens-Matsuyama👋</h1>
+I am currently a graduate student in UC Santa Barbara's [Master of Environmental Data Science (MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program. I am interested in marine ecology and fisheries management and aim to use the skills I gain in this program to promote sustainable practices and develop innovative solutions in these fields. Outside of school, I enjoy all the activities that activities that Southern California has to offer, such as hiking, surfing, fishing, and being in the sun! Learn more about me on my personal website, [tommats00.github.io](https://tommats00.github.io/)
 <!--
 **tommats00/tommats00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
