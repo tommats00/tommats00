@@ -8,7 +8,7 @@ I am currently in the fall quarter at UCSB taking R and Python coding classes. T
 
 ### A little more about me
 
-I am a Southern California local, as I was born and raised in Ventura. Growing up I had many little boys' dream of becoming a professional baseball player, but was later hit with the realization of the difficulty to do so! Luckily, I had a love for the ocean, which led me to studying marine biology at the University of Hawaiʻi at Mānoa. I was introduced to the power of programming languages during my time there and wanted to explore more. Fortunately, this led me to discover the newly founded [MEDS](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at UCSB. I am thrilled to be a part of the 4th cohort this program has to offer. I love the relationships I have forged and can't wait for what this school year has to offer. 
+I am a Southern California local, as I was born and raised in Ventura. Growing up I had many little boys' dream of becoming a professional baseball player, but was later hit with the realization of the difficulty to do so! Luckily, I had a love for the ocean, which led me to studying marine biology at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/). I was introduced to the power of programming languages during my time there and wanted to explore more. Fortunately, this led me to discover the newly founded [MEDS](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at UCSB. I am thrilled to be a part of the 4th cohort this program has to offer. I love the relationships I have forged and can't wait for what this school year has to offer! 
 
 
 
