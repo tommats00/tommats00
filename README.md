@@ -4,6 +4,10 @@ I'm a Southern California native, born and raised in Ventura. I recently earned 
 
 Outside of school and work, I enjoy taking advantage of everything Southern California has to offer, including hiking, camping, and spending time at the beach. I like to stay active through pickleball, golf, and working out. 
 
+Feel free to check out my repositories and my other sources!
+[Website](tommats00.github.io)
+[LinkedIn](https://www.linkedin.com/in/tom-gibbens-matsuyama-861458248/)
+[Gmail](thomas.b.matsuyama@gmail.com)
 
 <!--
 **tommats00/tommats00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
