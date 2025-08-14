@@ -10,7 +10,7 @@ Feel free to check out my repositories and my other sources!
 
 [LinkedIn](https://www.linkedin.com/in/tom-gibbens-matsuyama-861458248/)
 
-Gmail: thomas.b.matsuyama@gmail.com 
+thomas.b.matsuyama@gmail.com 
 
 <!--
 **tommats00/tommats00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
